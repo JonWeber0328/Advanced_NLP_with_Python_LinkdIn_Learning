@@ -1,4 +1,4 @@
-# Advanced NLP with_Python LinkdIn Learning
+# Advanced NLP with Python LinkdIn Learning
 
 This repo was created while following along with LinkedIn Learning certification program [Advanced NLP with Python for Machine Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/leveraging-the-power-of-messy-text-data?autoAdvance=true&autoSkip=false&autoplay=true&resume=true), taught by [Derek Jedamski](https://www.linkedin.com/learning/instructors/derek-jedamski).
 
